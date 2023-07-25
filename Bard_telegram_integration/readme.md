@@ -1,4 +1,3 @@
-Sure! Below is a template for a README file that you can use for your Python project:
 
 ```
 # GoOpenBot - Your Educational Telegram Bot
